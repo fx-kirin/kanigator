@@ -1,1 +1,1 @@
-Forked from deoplete.py
+Forked from delegator.py
